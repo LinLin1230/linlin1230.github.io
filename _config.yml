@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Linfei Ge"
 title_separator          : "-"
 name                     : &name "Linfei Ge"
 description              : &description "personal description"
@@ -22,28 +22,28 @@ repository               : "LinLin1230/LinLin1230.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Linfei Ge"
+  name             : "Linfei Ge / 葛林飞"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc"
   location         : "Hong Kong"
   employer         : "PolyU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "linfei.ge.95@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=lxTGJPUAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
